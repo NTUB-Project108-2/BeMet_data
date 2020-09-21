@@ -50,3 +50,10 @@
     * 活動時間
 * 新增資料
     * codetable 新增 活動邀請表 邀請狀態碼
+## 20200921
+* 刪除資料表
+    * friend_remark
+    * friend_label
+* 新增欄位
+    * friend_customization
+        * content 
