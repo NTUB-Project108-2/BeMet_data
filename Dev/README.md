@@ -57,3 +57,7 @@
 * 新增欄位
     * friend_customization
         * content 
+## 20201012
+* 修改欄位名稱
+    * activity_date
+        * activity_time_no to activity_date_no
