@@ -61,3 +61,10 @@
 * 修改欄位名稱
     * activity_date
         * activity_time_no to activity_date_no
+## 20201016
+* 新增欄位
+    * friend
+        * status
+* 新增資料
+    * code_tabe
+        * 新增 friend 對應資料
